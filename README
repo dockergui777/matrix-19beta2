@@ -1,0 +1,3 @@
+sudo apt install docker.io
+./Makefile.sh
+./host x11docker  fill in kodi-app kodi
